@@ -21,7 +21,7 @@ public class LoadingLayoutProxy implements ILoadingLayout {
 	 * included in any
 	 * {@link PullToRefreshBase#createLoadingLayoutProxy(boolean, boolean)
 	 * createLoadingLayoutProxy(...)} calls.
-	 * 
+	 * 00000
 	 * @param layout - LoadingLayout to have included.
 	 */
 	public void addLayout(LoadingLayout layout) {

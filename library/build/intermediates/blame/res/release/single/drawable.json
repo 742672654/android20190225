@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\xiaoduo\\Desktop\\aaa\\android-20190225\\library\\build\\intermediates\\res\\merged\\release\\drawable\\ptr_animation.xml",
+        "source": "C:\\Users\\xiaoduo\\Desktop\\aaa\\android-20190225\\library\\src\\main\\res\\drawable\\ptr_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiaoduo\\Desktop\\aaa\\android-20190225\\library\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\xiaoduo\\Desktop\\aaa\\android-20190225\\library\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiaoduo\\Desktop\\aaa\\android-20190225\\library\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\xiaoduo\\Desktop\\aaa\\android-20190225\\library\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]
